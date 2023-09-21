@@ -35,6 +35,7 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 
-## Before creating an issue, please review the following
+## Before creating an issue, please review the following:
+If confirmed, please write x in [ ].
 - [ ] We have confirmed that there are no duplicate issues.
 - [ ] We have confirmed that the browser you are using is supported.
