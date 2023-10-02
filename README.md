@@ -1,3 +1,4 @@
+**Note: The implementation of the plugin system default-fe is incomplete at this time.**
 # lune
 self-hostable microblogging platform🪐
 
