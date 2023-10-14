@@ -5,7 +5,7 @@ self-hostable microblogging platform🪐
 ## Features ✨
 * Plugin System
 
-Additional functionality, including ActivityPub support, can be added via plug-ins
+Additional functionality, can be added via plug-ins
 * Customizable Frontend
 
 You can use a static html frontend using the Jinja2 template engine.
